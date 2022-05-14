@@ -9,7 +9,8 @@
 **本工具遵循CC BY-NC-SA 4.0协议**
 
 ### 适用版本
-- C.05 
+- C.05
+- C.06
 
 *（以后可能会随系统版本变动而持续更新）*
 
@@ -23,16 +24,6 @@
 
 ## 联系方式
 ![coolapk_ycly](coolapk.png)
-
-## 校验码
-
-**MD5**：989066da629e63a98b27553d5a232397
-
-**CRC-32**：d34f1a6f
-
-**SHA-1**：afd7b7be7c6f612b5da141230ad901c5c3ca02b0
-
-**SHA-256**：d2dddc5bd27e3c8e924875c25d7dfb15036ffb38859f764fd225bfa95a1dd589
 
 ## 下载地址
 [天翼云盘](https://cloud.189.cn/t/qYram2JRrMF3)
