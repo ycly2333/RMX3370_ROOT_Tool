@@ -27,6 +27,6 @@
 ![coolapk_ycly](coolapk.png)
 
 ## 下载地址
-[天翼云盘](https://cloud.189.cn/t/qYram2JRrMF3)
+[天翼云盘](https://cloud.189.cn/t/i2eEZj6byEFr)
 
-网盘密码：pmu5
+网盘密码：投币点赞关注后私聊获取
