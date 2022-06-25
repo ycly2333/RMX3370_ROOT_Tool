@@ -26,7 +26,4 @@
 ## 联系方式
 ![coolapk_ycly](coolapk.png)
 
-## 下载地址
-[天翼云盘](https://cloud.189.cn/t/i2eEZj6byEFr)
-
-网盘密码：投币点赞关注后私聊获取
+## 暂不开放链接，请进群下载
