@@ -2,7 +2,7 @@
 
 ## 关于本工具
 - 作者：洋葱落叶
-- 工具密码：*QQGroup770942552*
+- 动态秘钥：*okay*
 
 **如果您转载本人制作的root工具，请务必保留原作者信息**
 
@@ -10,6 +10,7 @@
 
 ### 适用版本
 - C.10
+- C.09
 - C.08
 - C.07
 - C.06
@@ -28,4 +29,9 @@
 ## 联系方式
 ![coolapk_ycly](coolapk.png)
 
-## 暂不开放链接，请进群下载
+## 下载地址
+[蓝奏云](https://ycly.lanzouw.com/iiJOi0dbf3zi)
+
+[天翼云盘](https://cloud.189.cn/t/bIRjEbEjQ73a)
+
+密码：5zxh
