@@ -13,6 +13,7 @@
 - F.03 *
 - F.02 *
 - F.01 *
+
 > 带*为非正式版本，将在第一个正式版发布后移除
 
 ## realmeUI 3.0 (Android 12)
@@ -44,7 +45,7 @@
 ![coolapk_ycly](coolapk.png)
 
 ## 下载地址
-[蓝奏云](https://ycly.lanzouw.com/iA3eQ0gioxna)
+[蓝奏云](https://ycly.lanzouw.com/i5mBd0k1u72b)
 
 [天翼云盘](https://cloud.189.cn/t/bIRjEbEjQ73a)
 
