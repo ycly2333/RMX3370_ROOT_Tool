@@ -42,7 +42,7 @@
 ![coolapk_ycly](coolapk.png)
 
 ## 下载地址
-[蓝奏云](https://ycly.lanzouw.com/ittxl0mkfbcb)
+[蓝奏云](https://ycly.lanzouw.com/iVSYA0o2mo5i)
 
 [天翼云盘](https://cloud.189.cn/t/bIRjEbEjQ73a)
 
