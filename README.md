@@ -10,6 +10,7 @@
 
 ## 适用版本
 ### realmeUI 4.0 (Android 13)
+- F.05
 - F.04
 
 ### realmeUI 3.0 (Android 12)
