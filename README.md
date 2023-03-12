@@ -2,7 +2,7 @@
 
 ## 关于本工具
 - 作者：洋葱落叶
-- 工具版本：V2.1.1
+- 工具版本：V2.1.2
 
 **如果您转载本人制作的root工具，请务必保留原作者信息**
 
@@ -42,7 +42,7 @@
 ![coolapk_ycly](coolapk.png)
 
 ## 下载地址
-[蓝奏云](https://ycly.lanzouw.com/ihTGT0pd59eh)
+[蓝奏云](https://ycly.lanzouw.com/iIt1p0py0nxg)
 
 [天翼云盘](https://cloud.189.cn/t/bIRjEbEjQ73a)
 
