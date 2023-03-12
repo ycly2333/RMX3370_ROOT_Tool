@@ -1,4 +1,4 @@
-# realme GT Neo2 (RMX3370CN) root工具
+# realme GT Neo2 (RMX3370) root工具
 
 ## 关于本工具
 - 作者：洋葱落叶
