@@ -2,7 +2,7 @@
 
 ## 关于本工具
 - 作者：洋葱落叶
-- 工具版本：V2.2
+- 工具版本：V2.2.1
 
 **如果您转载本人制作的root工具，请务必保留原作者信息**
 
@@ -40,7 +40,7 @@
 ![qq](realme_ycly.png)
 
 ## 下载地址
-[蓝奏云](https://ycly.lanzouw.com/iBvvs0qeynud)
+[蓝奏云](https://ycly.lanzouw.com/iW5T40r6immb)
 
 [天翼云盘](https://cloud.189.cn/t/bIRjEbEjQ73a)
 
